@@ -1,0 +1,9 @@
+body {
+    background:pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:black; /* Dark Orchid really didn't match the pink */
+    text-align:center;
+}
