@@ -7,15 +7,21 @@ body {
     display:flex;
     padding:10px;
     margin:10px;
-    background:lightgray;
+    background:#7746b8;
 }
 
 .assignment img {
     width:200px;
-    padding:10px;
+    border: 2px solid #ffffff;
+    margin-right:20px;
 }
 
 h1 {
     color:black; /* Dark Orchid really didn't match the pink */
     text-align:center;
+}
+
+a  {
+    text-decoration:none;
+    color:#ffffff;
 }
